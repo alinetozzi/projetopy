@@ -4,10 +4,17 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import sqlite3
+import os
+
+# Obtendo o diretório atual do script
+script_dir = os.path.dirname(os.path.abspath(__file__))
+
+# Combinando o diretório do script com o nome do arquivo do banco de dados
+db_path = os.path.join(script_dir, 'banco_ev.db')
 
 # Estabelecendo conexão com banco de dados SQLite
 
-conn = sqlite3.connect('banco_ev.db')
+conn = sqlite3.connect(db_path)
 df = pd.read_sql_query('SELECT * FROM consolidado', con=conn)
 
 # Configurando a largura da página
@@ -16,7 +23,8 @@ st.set_page_config(layout="wide")
 
 # Configurando o logo da página
 
-logo = 'logo_book_trend.png'
+#logo = 'logo_book_trend.png'
+logo = os.path.join(script_dir, 'logo_book_trend.png')
 st.logo(logo,link=None, icon_image=None)
 
 # Configurando cabeçalho da página
