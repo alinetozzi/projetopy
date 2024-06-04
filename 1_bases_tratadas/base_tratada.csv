@@ -1,0 +1,101 @@
+posicao;titulo;autor;preco;dt
+1;As Mentiras Que os Homens Cont...;Luis Fernando Verissimo;11.25;2024-03-29 14:22:26.272763
+2;Rápido e Devagar: Duas Formas ...;Daniel Kahneman;49.99;2024-03-29 14:22:26.371534
+3;Ninguém é de Ninguém;Gasparetto, Zibia;6.0;2024-03-29 14:22:26.441446
+4;Um Homem;Oriana Fallaci;10.0;2024-03-29 14:22:26.505491
+5;O Poder da Esposa Que Ora;Stormie Omartian;6.0;2024-03-29 14:22:26.568890
+6;O avesso da pele;Jeferson Tenorio;54.68;2024-03-29 14:22:26.655995
+7;Os Pinguins do Sr. Popper;Richard e Florence Atwa...;6.0;2024-03-29 14:22:26.749946
+8;Aquele Garoto e os Segredos da...;Marcel Nilo;6.0;2024-03-29 14:22:26.817390
+9;Os Clássicos da Política Vol. ...;Francisco C. Weffort;28.0;2024-03-29 14:22:26.890143
+10;O Problema dos Três Corpos;Cixin Liu;10.0;2024-03-29 14:22:26.962359
+11;A Droga da Obediência;Pedro Bandeira;8.99;2024-03-29 14:22:27.034127
+12;O Caibalion;Três Iniciados;19.0;2024-03-29 14:22:27.103940
+13;Vidas Secas;Graciliano Ramos;6.0;2024-03-29 14:22:27.176228
+14;A Revolução dos Bichos;George Orwell;7.99;2024-03-29 14:22:27.272166
+15;Estórias de Bichos;Rubem Alves;8.53;2024-03-29 14:22:27.363123
+16;Bitcoin Red Pill : O Renascime...;Alan Schramm / Renato A...;49.43;2024-03-29 14:22:27.468483
+17;O Espiritismo Aplicado;Eliseu Rigonatti;6.0;2024-03-29 14:22:27.551235
+18;A Ilha Perdida;Maria José Dupré;19.0;2024-03-29 14:22:27.631956
+19;A Roda da Vida;Elisabeth Kubler Ross;9.0;2024-03-29 14:22:27.717394
+20;Terra Sonâmbula;Mia Couto;13.0;2024-03-29 14:22:27.799880
+21;O Velho e o Mar;Ernest Hemingway;14.9;2024-03-29 14:22:27.869549
+22;Violetas na Janela;Vera Lúcia Marinzeck de...;10.0;2024-03-29 14:22:27.938728
+23;Comunicação Não-violenta;Marshall B. Rosenberg;57.9;2024-03-29 14:22:28.033351
+24;O Menino do Pijama Listrado;John Boyne;18.0;2024-03-29 14:22:28.109605
+25;Co-dependência Nunca Mais;Melody Beattie;29.92;2024-03-29 14:22:28.180694
+26;A fé e o fuzil;Bruno Paes Manso;55.4;2024-03-29 14:22:28.254488
+27;Malala, a Menina Que Queria Ir...;Adriana Carranca;25.0;2024-03-29 14:22:28.331339
+28;Assassinato no Expresso do Ori...;Agatha Christie;10.0;2024-03-29 14:22:28.402255
+29;Em Busca de Sentido;Frankl, Viktor E.;27.45;2024-03-29 14:22:28.480620
+30;Entrega-te a Deus;Divaldo Franco;8.99;2024-03-29 14:22:28.553319
+31;O fim da morte;Liu, Cixin;71.5;2024-03-29 14:22:28.624509
+32;Médico de Homens e de Almas;Taylor Caldwell;16.0;2024-03-29 14:22:28.697452
+33;Educação Como Prática da Liber...;Paulo Freire;16.0;2024-03-29 14:22:28.770807
+34;O Que é Educação;Carlos Rodrigues Brandã...;6.0;2024-03-29 14:22:28.846067
+35;Fernando Sabino na Sala de Aul...;Fernando Sabino;8.0;2024-03-29 14:22:28.938864
+36;Quarto de Despejo - Diário de ...;Carolina Maria de Jesus;30.0;2024-03-29 14:22:29.035408
+37;História da Grécia;Mário Curtis Giordani;15.0;2024-03-29 14:22:29.114596
+38;Alice no País das Maravilhas;Lewis Carroll;6.0;2024-03-29 14:22:29.188045
+39;No Coracao Da Vida;PALMO, JETSUNMA TENZIN;18.9;2024-03-29 14:22:29.260673
+40;A Vida Intelectual  ;A. D. Sertillanges;22.0;2024-03-29 14:22:29.340916
+41;O Desejado de Todas as Nações;Ellen G. White;18.0;2024-03-29 14:22:29.419318
+42;O Pequeno Príncipe;Antoine de Saint-exuper...;6.0;2024-03-29 14:22:29.515280
+43;Capitalismo e Liberdade;Milton Friedman;13.0;2024-03-29 14:22:29.609453
+44;Marcelo, Marmelo, Martelo e Ou...;Ruth Rocha;23.0;2024-03-29 14:22:29.715965
+45;O Poder do Hábito;Charles Duhigg;30.0;2024-03-29 14:22:29.820993
+46;Cavalo de Tróia 8 - Jordão;J. J. Benítez;14.0;2024-03-29 14:22:29.930451
+47;O Processo;Franz Kafka;6.0;2024-03-29 14:22:30.031766
+48;Essencialismo a Disciplinada B...;Greg Mckeown;34.9;2024-03-29 14:22:30.150418
+49;Desenho Técnico Mecânico - Vol...;Manfe /pozza /scarato;10.0;2024-03-29 14:22:30.237924
+50;Tieta do Agreste;Jorge Amado;6.0;2024-03-29 14:22:30.379977
+51;O Códice Atlântico Volume 3;Leonardo da Vinci;7.5;2024-03-29 14:22:30.490417
+52;Os Quatro Compromissos;Don Miguel Ruiz;25.0;2024-03-29 14:22:30.602805
+53;Curso de Redação;Antônio Suárez Abreu;6.0;2024-03-29 14:22:30.812818
+54;Grande Sertão: Veredas;João Guimarães Rosa;19.98;2024-03-29 14:22:30.938476
+55;O Livro dos Espíritos;Allan Kardec;6.0;2024-03-29 14:22:31.034094
+56;Meditações;Marco Aurélio;12.0;2024-03-29 14:22:31.143286
+57;Capitães da Areia;Jorge Amado;15.0;2024-03-29 14:22:31.236033
+58;Os Donos do Poder - 2 Volumes;Raymundo Faoro;9.9;2024-03-29 14:22:31.341279
+59;Vinho e Guerra;Don e Petie Kladstrup;6.0;2024-03-29 14:22:31.432946
+60;Por Quem os Sinos Dobram;Ernest Hemingway;26.9;2024-03-29 14:22:31.552674
+61;Primavera Silenciosa;Rachel Carson;41.04;2024-03-29 14:22:31.647947
+62;Os Homens Que Encaravam Cabras;Jon Ronson;10.9;2024-03-29 14:22:31.738342
+63;LIGEIRAMENTE SEDUZIDOS;BALOGH MARY;12.98;2024-03-29 14:22:31.840406
+64;A Marca de uma Lágrima;Pedro Bandeira;6.79;2024-03-29 14:22:31.934378
+65;Mindset - a Nova Psicologia do...;Carol S. Dweck;30.0;2024-03-29 14:22:32.042684
+66;Formação Econômica do Brasil;Celso Furtado;7.0;2024-03-29 14:22:32.146312
+67;Harry Potter e a Pedra Filosof...;J. K. Rowling;15.0;2024-03-29 14:22:32.255869
+68;Violência E A História Da Desi...;Scheidel, Walter;73.9;2024-03-29 14:22:32.374372
+69;A floresta sombria;Liu, Cixin;44.99;2024-03-29 14:22:32.503128
+70;Loteamentos Urbanos;Juan Luis Mascaró;116.9;2024-03-29 14:22:32.615992
+71;Cálculo Volume 1;James Stewart;40.0;2024-03-29 14:22:32.718934
+72;Sociologia do Negro Brasileiro;Clóvis Moura;50.0;2024-03-29 14:22:32.836137
+73;O Segundo Grande Elo;Elizabeth Pereira;200.0;2024-03-29 14:22:32.937276
+74;O Declínio da Cultura Ocidenta...;Allan Bloom;65.0;2024-03-29 14:22:33.032812
+75;Meu Planeta Rima com Agua;Obeid, Cesar;48.96;2024-03-29 14:22:33.129974
+76;Lições Preliminares de Direito;Miguel Reale;19.9;2024-03-29 14:22:33.265145
+77;Hiperestática Plana Geral Vol....;Aderson Moreira da Roch...;14.4;2024-03-29 14:22:33.378421
+78;Onde Está Wally?;Martin Handford;10.0;2024-03-29 14:22:33.480452
+79;O Poder do Agora;Eckhart Tolle;16.0;2024-03-29 14:22:33.585342
+80;Como e por Que Ler;Harold Bloom;64.0;2024-03-29 14:22:33.685981
+81;O Homem e Seus Símbolos;Carl G. Jung;34.9;2024-03-29 14:22:33.783754
+82;Alfabetização e Letramento;Magda Soares;20.0;2024-03-29 14:22:33.916116
+83;Nutrição de Plantas;Renato de Mello Prado;69.0;2024-03-29 14:22:34.044194
+84;O Normal e o Patológico;Georges Canguilhem;64.9;2024-03-29 14:22:34.147180
+85;A Melhor Amiga de Anne;Kallie George (adapt.);23.0;2024-03-29 14:22:34.293596
+86;Os Jesuítas - a Companhia de J...;Malachi Martin;190.0;2024-03-29 14:22:34.421313
+87;Guerra e Paz;Liev Tolstói;15.0;2024-03-29 14:22:34.511530
+88;O pacto da branquitude;Cida Bento;19.9;2024-03-29 14:22:34.621520
+89;Avaliação Mediadora;Jussara Hoffmann;35.0;2024-03-29 14:22:34.740487
+90;Paraíso tropical;Editora Escala;13.99;2024-03-29 14:22:34.840124
+91;Lições de estoicismo: O que os...;John Sellars;26.0;2024-03-29 14:22:34.985145
+92;O Corpo Fala;Pierre Weil e Roland To...;17.0;2024-03-29 14:22:35.131361
+93;Plantas Alimenticias Nao Conve...;Valdely Ferreira Kinupp;209.0;2024-03-29 14:22:35.272385
+94;Crepúsculo - Livro de Anotaçõe...;Catherine Hardwicke;40.0;2024-03-29 14:22:35.372185
+95;Alcançando Excelencia Em Venda...;Neil Rackham;55.0;2024-03-29 14:22:35.472191
+96;Pequena Coreografia do Adeus;Aline Bei;30.0;2024-03-29 14:22:35.587447
+97;Projeto de Trabalho - uma Form...;Laura Monte Serrat Barb...;28.99;2024-03-29 14:22:35.748288
+98;Desde Que o Samba é Samba;Paulo Lins;20.7;2024-03-29 14:22:35.897509
+99;História da Filosofia - Volume...;Giovanni Reale Dario An...;24.0;2024-03-29 14:22:36.000065
+100;Polícia, Democracia e Política...;Thaís Battibugli;14.98;2024-03-29 14:22:36.104554
